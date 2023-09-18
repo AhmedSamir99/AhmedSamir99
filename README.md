@@ -2,9 +2,7 @@
 <h3 align="center">A passionate software engineer from egypt</h3>
 
 
-- 🔭 I’m currently studying in **ITI**
-
-- 🌱 I’m currently learning **Backend and Frontend Frameworks and languages NodeJs, Django , Laravel..**
+- 🔭 I’m currently working as a Backend engineer using **Spring boot**
 
 - 💬 Ask me about **problem solving , Backend problems**
 
